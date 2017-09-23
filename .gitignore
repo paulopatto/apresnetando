@@ -1,0 +1,3 @@
+*.slides.html
+.ipynb_check_points
+.ipynb_checkpoints
