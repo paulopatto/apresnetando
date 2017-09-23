@@ -22,4 +22,4 @@ conda install --file=REQUIREMENTS
 ```sh
 jupyter-nbconvert --to slides $YOU_IPYNB_FILE --reveal-prefix=reveal.js
 ```
-![device][device.gif]
+![device][./device.gif]
